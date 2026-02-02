@@ -11,7 +11,7 @@
   "lua-utils.nvim": { "branch": "main", "commit": "e565749421f4bbb5d2e85e37c3cef9d56553d8bd" },
   "lualine-time": { "branch": "main", "commit": "8838875e2e787293bb905d23dbb91ef4bde188ea" },
   "lualine.nvim": { "branch": "master", "commit": "47f91c416daef12db467145e16bed5bbfe00add8" },
-  "neorg": { "branch": "main", "commit": "f81b9d2c770b92d9bd28c85975da7d301da33882" },
+  "neorg": { "branch": "main", "commit": "0292655d47813a3ed8babbad30df4d6e7fc00789" },
   "nui.nvim": { "branch": "main", "commit": "de740991c12411b663994b2860f1a4fd0937c130" },
   "nvim-autopairs": { "branch": "master", "commit": "59bce2eef357189c3305e25bc6dd2d138c1683f5" },
   "nvim-cmp": { "branch": "main", "commit": "da88697d7f45d16852c6b2769dc52387d1ddc45f" },
