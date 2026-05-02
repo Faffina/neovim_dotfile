@@ -5,6 +5,7 @@ return {
         vim.lsp.enable("clangd")
         vim.lsp.enable("texlab")
         vim.lsp.enable("qmlls")
+        vim.lsp.enable('pyright')
 
         vim.keymap.set('n', '<space>e', vim.diagnostic.open_float)
         vim.keymap.set('n', '[d', vim.diagnostic.goto_prev)
